@@ -1,0 +1,10 @@
+23:38:40 **** Incremental Build of configuration Debug for project Project_4_Interfacing_LCD ****
+make -j16 all 
+arm-none-eabi-size  Project_4_Interfacing_LCD.elf 
+   text	   data	    bss	    dec	    hex	filename
+   4948	     12	   1572	   6532	   1984	Project_4_Interfacing_LCD.elf
+Finished building: default.size.stdout
+ 
+
+23:38:40 Build Finished. 0 errors, 0 warnings. (took 139ms)
+

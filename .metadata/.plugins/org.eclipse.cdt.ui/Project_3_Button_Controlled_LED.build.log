@@ -1,0 +1,10 @@
+22:44:35 **** Incremental Build of configuration Debug for project Project_3_Button_Controlled_LED ****
+make -j16 all 
+arm-none-eabi-size  Project_3_Button_Controlled_LED.elf 
+   text	   data	    bss	    dec	    hex	filename
+   4600	     12	   1572	   6184	   1828	Project_3_Button_Controlled_LED.elf
+Finished building: default.size.stdout
+ 
+
+22:44:36 Build Finished. 0 errors, 0 warnings. (took 147ms)
+
